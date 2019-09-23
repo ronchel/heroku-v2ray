@@ -17,7 +17,7 @@
       "required": false
      }
   },
-  "website": "https://github.com/WinstonH/v2ray-heroku",
-  "repository": "https://github.com/WinstonH/v2ray-heroku",
+  "website": "https://github.com/Fookdies301/heroku-v2ray",
+  "repository": "https://github.com/Fookdies301/heroku-v2ray",
   "stack": "container"
 }
